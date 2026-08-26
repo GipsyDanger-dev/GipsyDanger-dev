@@ -10,7 +10,9 @@ I am an Information Technology student at Universitas Brawijaya with a strong in
 
 # 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=GipsyDanger-dev&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=GipsyDanger-dev&theme=dark" alt="GitHub Streak" />
+</p>
 
 
 
