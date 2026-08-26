@@ -10,10 +10,11 @@ I am an Information Technology student at Universitas Brawijaya with a strong in
 
 # 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GipsyDanger-dev&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=GipsyDanger-dev&show_icons=true&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GipsyDanger-dev&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GipsyDanger-dev&theme=github_dark)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=GipsyDanger-dev&theme=dark)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GipsyDanger-dev&layout=compact&theme=dark)
 
 
 
